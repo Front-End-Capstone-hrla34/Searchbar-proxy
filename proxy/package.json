@@ -1,0 +1,29 @@
+{
+  "name": "searchbar-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for FrontEnd Capstone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Front-End-Capstone-hrla34/Searchbar-proxy.git"
+  },
+  "author": "Brian Price",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.5",
+    "express": "^4.14.0",
+    "mongoose": "^5.8.9",
+    "morgan": "^1.7.0",
+    "nodemon": "^2.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Front-End-Capstone-hrla34/Searchbar-proxy/issues"
+  },
+  "homepage": "https://github.com/Front-End-Capstone-hrla34/Searchbar-proxy#readme"
+}
