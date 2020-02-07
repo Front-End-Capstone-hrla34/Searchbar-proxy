@@ -1,2 +1,2 @@
 # Searchbar-proxy
-proxy for Searchbar
+proxy server for Trafalgar FrontEndCapstone project
